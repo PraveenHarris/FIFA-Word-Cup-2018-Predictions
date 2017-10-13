@@ -1,0 +1,385 @@
+Name,Country,Club,Position,Assists,Goals
+Keylor Navas,Costa Rica,Real Madrid C.F.,GK,0,0
+Dani Carvajal,Spain,Real Madrid C.F.,DF,0,0
+Jesús Vallejo,Spain,Real Madrid C.F.,DF,0,0
+Sergio Ramos,Spain,Real Madrid C.F.,DF,0,7
+Raphaël Varane,France,Real Madrid C.F.,DF,0,0
+Nacho,Spain,Real Madrid C.F.,DF,0,0
+Cristiano Ronaldo,Portugal,Real Madrid C.F.,FW,6,25
+Toni Kroos,Germany,Real Madrid C.F.,MF,12,0
+Karim Benzema,France,Real Madrid C.F.,FW,5,11
+Luka Modri?,Croatia,Real Madrid C.F.,MF,0,0
+Gareth Bale,Wales,Real Madrid C.F.,FW,0,7
+Marcelo,Brazil,Real Madrid C.F.,DF,10,0
+Kiko Casilla,Spain,Real Madrid C.F.,GK,0,0
+Casemiro,Brazil,Real Madrid C.F.,MF,0,0
+Theo Hernández,France,Real Madrid C.F.,DF,0,0
+Lucas Vázquez,Spain,Real Madrid C.F.,FW,7,0
+Marcos Llorente,Spain,Real Madrid C.F.,MF,0,0
+Achraf Hakimi,Morocco,Real Madrid C.F.,DF,0,0
+Marco Asensio,Spain,Real Madrid C.F.,MF,0,0
+Borja Mayoral,Spain,Real Madrid C.F.,FW,0,0
+Isco,Spain,Real Madrid C.F.,MF,8,10
+Mateo Kova?i?,Croatia,Real Madrid C.F.,MF,0,0
+Dani Ceballos,Spain,Real Madrid C.F.,MF,0,0
+Luca Zidane,France,Real Madrid C.F.,GK,0,0
+Marc-André ter Stegen,Germany,FC Barcelona,GK,0,0
+Nélson Semedo,Portugal,FC Barcelona,DF,0,0
+Gerard Piqué,Spain,FC Barcelona,DF,0,0
+Ivan Rakiti?,Croatia,FC Barcelona,MF,0,0
+Sergio Busquets,Spain,FC Barcelona,MF,0,0
+Denis Suárez,Spain,FC Barcelona,MF,0,0
+Arda Turan,Turkey,FC Barcelona,MF,0,0
+Andrés Iniesta,Spain,FC Barcelona,MF,0,0
+Luis Suárez,Uruguay,FC Barcelona,FW,13,29
+Lionel Messi,Argentina,FC Barcelona,FW,9,37
+Ousmane Dembélé,France,FC Barcelona,FW,12,6
+Rafinha,Brazil,FC Barcelona,MF,0,0
+Jasper Cillessen,Netherlands,FC Barcelona,GK,0,0
+Javier Mascherano,Argentina,FC Barcelona,DF,0,0
+Paulinho,Brazil,FC Barcelona,MF,0,0
+Gerard Deulofeu,Spain,FC Barcelona,FW,0,0
+Paco Alcácer,Spain,FC Barcelona,FW,0,0
+Jordi Alba,Spain,FC Barcelona,DF,6,0
+Lucas Digne,France,FC Barcelona,DF,0,0
+Sergi Roberto,Spain,FC Barcelona,MF,6,0
+André Gomes,Portugal,FC Barcelona,MF,0,0
+Aleix Vidal,Spain,FC Barcelona,DF,0,0
+Samuel Umtiti,France,FC Barcelona,DF,0,0
+Thomas Vermaelen,Belgium,FC Barcelona,DF,0,0
+Miguel Ángel Moyà,Spain,Atlético Madrid,GK,0,0
+Diego Godín,Uruguay,Atlético Madrid,DF,0,0
+Filipe Luís,Brazil,Atlético Madrid,DF,6,0
+Thomas Partey,Ghana,Atlético Madrid,MF,0,0
+Koke,Spain,Atlético Madrid,MF,8,0
+Antoine Griezmann,France,Atlético Madrid,FW,8,16
+Saúl,Spain,Atlético Madrid,MF,0,0
+Fernando Torres,Spain,Atlético Madrid,FW,5,8
+Yannick Carrasco,Belgium,Atlético Madrid,MF,4,10
+Ángel Correa,Argentina,Atlético Madrid,FW,8,0
+Augusto Fernández,Argentina,Atlético Madrid,MF,0,0
+Jan Oblak,Slovenia,Atlético Madrid,GK,0,0
+Gabi,Spain,Atlético Madrid,MF,0,0
+Stefan Savi?,Montenegro,Atlético Madrid,DF,0,0
+Šime Vrsaljko,Croatia,Atlético Madrid,DF,0,0
+Luciano Vietto,Argentina,Atlético Madrid,FW,0,0
+Diego Costa,Spain,Atlético Madrid,FW,7,20
+Lucas Hernández,France,Atlético Madrid,DF,0,0
+Juanfran,Spain,Atlético Madrid,DF,6,0
+Kévin Gameiro,France,Atlético Madrid,FW,0,0
+Nicolás Gaitán,Argentina,Atlético Madrid,MF,0,0
+José Giménez,Uruguay,Atlético Madrid,DF,0,0
+Axel Werner,Argentina,Atlético Madrid,GK,0,0
+André Moreira,Portugal,Atlético Madrid,GK,0,0
+Danijel Subaši?,Croatia,AS Monaco FC,GK,0,0
+Fabinho,Brazil,AS Monaco FC,MF,0,9
+Terence Kongolo,Netherlands,AS Monaco FC,DF,0,0
+Jemerson,Brazil,AS Monaco FC,DF,0,0
+Jorge,Brazil,AS Monaco FC,DF,0,0
+Rachid Ghezzal,Algeria,AS Monaco FC,MF,0,0
+João Moutinho,Portugal,AS Monaco FC,MF,0,0
+Radamel Falcao,Colombia,AS Monaco FC,FW,5,21
+Stevan Joveti?,Montenegro,AS Monaco FC,FW,0,0
+Guido Carrillo,Argentina,AS Monaco FC,FW,0,7
+Keita Baldé,Senegal,AS Monaco FC,FW,0,0
+Adama Diakhaby,France,AS Monaco FC,FW,0,0
+Diego Benaglio,Switzerland,AS Monaco FC,GK,0,0
+Youri Tielemans,Belgium,AS Monaco FC,MF,0,0
+Soualiho Meïté,France,AS Monaco FC,MF,0,0
+Djibril Sidibé,France,AS Monaco FC,DF,5,0
+Rony Lopes,Portugal,AS Monaco FC,MF,0,0
+Julien Serrano,France,AS Monaco FC,DF,0,0
+Jordi Mboula,Spain,AS Monaco FC,FW,0,0
+Pierre-Daniel N'Guinda,France,AS Monaco FC,DF,0,0
+Andrea Raggi,Italy,AS Monaco FC,DF,0,0
+Kamil Glik,Poland,AS Monaco FC,DF,0,6
+Boschilia,Brazil,AS Monaco FC,MF,0,0
+Thomas Lemar,France,AS Monaco FC,MF,10,9
+Kevin Trapp,Germany,Paris Saint-Germain F.C.,GK,0,0
+Thiago Silva,Brazil,Paris Saint-Germain F.C.,DF,0,0
+Presnel Kimpembe,France,Paris Saint-Germain F.C.,DF,0,0
+Marquinhos,Brazil,Paris Saint-Germain F.C.,DF,0,0
+Marco Verratti,Italy,Paris Saint-Germain F.C.,MF,5,0
+Lucas Moura,Brazil,Paris Saint-Germain F.C.,MF,5,12
+Thiago Motta,Italy,Paris Saint-Germain F.C.,MF,0,0
+Edinson Cavani,Uruguay,Paris Saint-Germain F.C.,FW,4,35
+Neymar,Brazil,Paris Saint-Germain F.C.,FW,11,13
+Ángel Di María,Argentina,Paris Saint-Germain F.C.,MF,7,0
+Thomas Meunier,Belgium,Paris Saint-Germain F.C.,DF,0,0
+Alphonse Areola,France,Paris Saint-Germain F.C.,GK,0,0
+Yuri Berchiche,Spain,Paris Saint-Germain F.C.,DF,0,0
+Giovani Lo Celso,Argentina,Paris Saint-Germain F.C.,MF,0,0
+Layvin Kurzawa,France,Paris Saint-Germain F.C.,DF,0,0
+Hatem Ben Arfa,France,Paris Saint-Germain F.C.,MF,0,0
+Julian Draxler,Germany,Paris Saint-Germain F.C.,MF,0,0
+Christopher Nkunku,France,Paris Saint-Germain F.C.,MF,0,0
+Adrien Rabiot,France,Paris Saint-Germain F.C.,MF,0,0
+Javier Pastore,Argentina,Paris Saint-Germain F.C.,MF,0,0
+Kylian Mbappé,France,Paris Saint-Germain F.C.,FW,8,15
+Alec Georgen,France,Paris Saint-Germain F.C.,DF,0,0
+Dani Alves,Brazil,Paris Saint-Germain F.C.,DF,0,0
+Rémy Descamps,France,Paris Saint-Germain F.C.,GK,0,0
+Gianluigi Buffon,Italy,Juventus F.C.,GK,0,0
+Mattia De Sciglio,Italy,Juventus F.C.,DF,0,0
+Giorgio Chiellini,Italy,Juventus F.C.,DF,0,0
+Medhi Benatia,Morocco,Juventus F.C.,DF,0,0
+Miralem Pjani?,Bosnia and Herzegovina,Juventus F.C.,MF,0,0
+Sami Khedira,Germany,Juventus F.C.,MF,0,0
+Juan Cuadrado,Colombia,Juventus F.C.,MF,6,0
+Claudio Marchisio,Italy,Juventus F.C.,MF,0,0
+Gonzalo Higuaín,Argentina,Juventus F.C.,FW,0,24
+Paulo Dybala,Argentina,Juventus F.C.,FW,7,11
+Douglas Costa,Brazil,Juventus F.C.,FW,0,0
+Alex Sandro,Brazil,Juventus F.C.,DF,0,0
+Blaise Matuidi,France,Juventus F.C.,MF,0,0
+Andrea Barzagli,Italy,Juventus F.C.,DF,0,0
+Carlo Pinsoglio,Italy,Juventus F.C.,GK,0,0
+Mario Mandžuki?,Croatia,Juventus F.C.,FW,0,0
+Marko Pjaca,Croatia,Juventus F.C.,FW,0,0
+Benedikt Höwedes,Germany,Juventus F.C.,DF,0,0
+Kwadwo Asamoah,Ghana,Juventus F.C.,MF,0,0
+Wojciech Szcz?sny,Poland,Juventus F.C.,GK,0,0
+Daniele Rugani,Italy,Juventus F.C.,DF,0,0
+Stephan Lichtsteiner,Switzerland,Juventus F.C.,DF,0,0
+Stefano Sturaro,Italy,Juventus F.C.,MF,0,0
+Rodrigo Bentancur,Uruguay,Juventus F.C.,MF,0,0
+Alisson,Brazil,A.S. Roma,GK,0,0
+Luca Pellegrini,Italy,A.S. Roma,DF,0,0
+Radja Nainggolan,Belgium,A.S. Roma,MF,5,11
+Juan Jesus,Brazil,A.S. Roma,DF,0,0
+Kevin Strootman,Netherlands,A.S. Roma,MF,7,0
+Lorenzo Pellegrini,Italy,A.S. Roma,MF,6,0
+Diego Perotti,Argentina,A.S. Roma,MF,6,8
+Edin Džeko,Bosnia and Herzegovina,A.S. Roma,FW,0,0
+Aleksandar Kolarov,Serbia,A.S. Roma,DF,0,0
+Andrea Romagnoli,Italy,A.S. Roma,GK,0,0
+Patrik Schick,Czech Republic,A.S. Roma,FW,0,11
+Héctor Moreno,Mexico,A.S. Roma,DF,0,0
+Daniele De Rossi,Italy,A.S. Roma,MF,0,0
+Cengiz Ünder,Turkey,A.S. Roma,MF,0,0
+Bogdan Lobon?,Romania,A.S. Roma,GK,0,0
+Federico Fazio,Argentina,A.S. Roma,DF,0,0
+Maxime Gonalons,France,A.S. Roma,MF,0,0
+Abdullahi Nura,Nigeria,A.S. Roma,DF,0,0
+Grégoire Defrel,France,A.S. Roma,FW,0,0
+Alessandro Florenzi,Italy,A.S. Roma,MF,0,0
+Bruno Peres,Brazil,A.S. Roma,DF,0,0
+Rick Karsdorp,Netherlands,A.S. Roma,DF,0,0
+?ukasz Skorupski,Poland,A.S. Roma,GK,0,0
+Gerson,Brazil,A.S. Roma,MF,0,0
+Manuel Neuer,Germany,FC Bayern Munich,GK,0,0
+Niklas Süle,Germany,FC Bayern Munich,DF,0,0
+Mats Hummels,Germany,FC Bayern Munich,DF,0,0
+Thiago,Spain,FC Bayern Munich,MF,0,0
+Franck Ribéry,France,FC Bayern Munich,MF,11,5
+Javi Martínez,Spain,FC Bayern Munich,DF,0,0
+Robert Lewandowski,Poland,FC Bayern Munich,FW,5,30
+Arjen Robben,Netherlands,FC Bayern Munich,MF,9,13
+James Rodríguez,Colombia,FC Bayern Munich,MF,6,8
+Rafinha,Brazil,FC Bayern Munich,DF,0,0
+Juan Bernat,Spain,FC Bayern Munich,DF,0,0
+Jérôme Boateng,Germany,FC Bayern Munich,DF,0,0
+Sebastian Rudy,Germany,FC Bayern Munich,MF,7,0
+Felix Götze,Germany,FC Bayern Munich,DF,0,0
+Tom Starke,Germany,FC Bayern Munich,GK,0,0
+Arturo Vidal,Chile,FC Bayern Munich,MF,0,0
+Corentin Tolisso,France,FC Bayern Munich,MF,5,8
+Thomas Müller,Germany,FC Bayern Munich,FW,12,0
+Sven Ulreich,Germany,FC Bayern Munich,GK,0,0
+David Alaba,Austria,FC Bayern Munich,DF,4,0
+Kingsley Coman,France,FC Bayern Munich,MF,0,0
+Niklas Dorsch,Germany,FC Bayern Munich,MF,0,0
+Joshua Kimmich,Germany,FC Bayern Munich,DF,0,6
+Marco Friedl,Austria,FC Bayern Munich,DF,0,0
+Roman Weidenfeller,Germany,Borussia Dortmund,GK,0,0
+Dan-Axel Zagadou,France,Borussia Dortmund,DF,0,0
+Neven Suboti?,Serbia,Borussia Dortmund,DF,0,0
+Marc Bartra,Spain,Borussia Dortmund,DF,0,0
+Jadon Sancho,England,Borussia Dortmund,MF,0,0
+Nuri ?ahin,Turkey,Borussia Dortmund,MF,0,0
+Andriy Yarmolenko,Ukraine,Borussia Dortmund,FW,0,0
+Mario Götze,Germany,Borussia Dortmund,MF,0,0
+Marco Reus,Germany,Borussia Dortmund,FW,0,7
+Raphaël Guerreiro,Portugal,Borussia Dortmund,DF,0,0
+Alexander Isak,Sweden,Borussia Dortmund,FW,0,0
+Jeremy Toljan,Germany,Borussia Dortmund,DF,0,0
+Pierre-Emerick Aubameyang,Gabon,Borussia Dortmund,FW,0,31
+Sebastian Rode,Germany,Borussia Dortmund,MF,0,0
+Mahmoud Dahoud,Germany,Borussia Dortmund,MF,6,0
+Maximilian Philipp,Germany,Borussia Dortmund,FW,0,9
+André Schürrle,Germany,Borussia Dortmund,MF,0,0
+Christian Pulisic,United States,Borussia Dortmund,MF,6,0
+Shinji Kagawa,Japan,Borussia Dortmund,MF,6,0
+Sokratis Papastathopoulos,Greece,Borussia Dortmund,DF,0,0
+?ukasz Piszczek,Poland,Borussia Dortmund,DF,0,0
+Gonzalo Castro,Germany,Borussia Dortmund,MF,6,0
+Marcel Schmelzer,Germany,Borussia Dortmund,DF,0,0
+Julian Weigl,Germany,Borussia Dortmund,MF,0,0
+Willy Caballero,Argentina,Chelsea F.C.,GK,0,0
+Antonio Rüdiger,Germany,Chelsea F.C.,DF,0,0
+Marcos Alonso,Spain,Chelsea F.C.,DF,0,6
+Cesc Fàbregas,Spain,Chelsea F.C.,MF,12,0
+Danny Drinkwater,England,Chelsea F.C.,MF,0,0
+N'Golo Kanté,France,Chelsea F.C.,MF,0,0
+Álvaro Morata,Spain,Chelsea F.C.,FW,0,15
+Eden Hazard,Belgium,Chelsea F.C.,MF,5,16
+Pedro,Spain,Chelsea F.C.,MF,9,9
+Thibaut Courtois,Belgium,Chelsea F.C.,GK,0,0
+Tiémoué Bakayoko,France,Chelsea F.C.,MF,0,0
+Victor Moses,Nigeria,Chelsea F.C.,MF,0,0
+Kenedy,Brazil,Chelsea F.C.,MF,0,0
+Charly Musonda,Belgium,Chelsea F.C.,MF,0,0
+Diego Costa,Spain,Chelsea F.C.,FW,0,0
+Davide Zappacosta,Italy,Chelsea F.C.,DF,5,0
+Willian,Brazil,Chelsea F.C.,MF,0,8
+Michy Batshuayi,Belgium,Chelsea F.C.,FW,0,0
+Gary Cahill,England,Chelsea F.C.,DF,0,0
+Andreas Christensen,Denmark,Chelsea F.C.,DF,0,0
+César Azpilicueta,Spain,Chelsea F.C.,DF,4,0
+David Luiz,Brazil,Chelsea F.C.,DF,0,0
+Jake Clarke-Salter,England,Chelsea F.C.,DF,0,0
+Kyle Scott,United States,Chelsea F.C.,MF,0,0
+Hugo Lloris,France,Tottenham Hotspur F.C.,GK,0,0
+Kieran Trippier,England,Tottenham Hotspur F.C.,DF,5,0
+Danny Rose,England,Tottenham Hotspur F.C.,DF,0,0
+Toby Alderweireld,Belgium,Tottenham Hotspur F.C.,DF,0,0
+Jan Vertonghen,Belgium,Tottenham Hotspur F.C.,DF,0,0
+Davinson Sánchez,Colombia,Tottenham Hotspur F.C.,DF,0,0
+Son Heung-min,South Korea,Tottenham Hotspur F.C.,FW,0,0
+Harry Kane,England,Tottenham Hotspur F.C.,FW,7,29
+Érik Lamela,Argentina,Tottenham Hotspur F.C.,MF,0,0
+Victor Wanyama,Kenya,Tottenham Hotspur F.C.,MF,0,0
+Michel Vorm,Netherlands,Tottenham Hotspur F.C.,GK,0,0
+Georges-Kévin N'Koudou,France,Tottenham Hotspur F.C.,MF,0,0
+Eric Dier,England,Tottenham Hotspur F.C.,MF,0,0
+Moussa Sissoko,France,Tottenham Hotspur F.C.,MF,0,0
+Fernando Llorente,Spain,Tottenham Hotspur F.C.,FW,0,15
+Mousa Dembélé,Belgium,Tottenham Hotspur F.C.,MF,0,0
+Dele Alli,England,Tottenham Hotspur F.C.,MF,7,18
+Juan Foyth,Argentina,Tottenham Hotspur F.C.,DF,0,0
+Paulo Gazzaniga,Argentina,Tottenham Hotspur F.C.,GK,0,0
+Christian Eriksen,Denmark,Tottenham Hotspur F.C.,MF,15,8
+Serge Aurier,Ivory Coast,Tottenham Hotspur F.C.,DF,0,0
+Harry Winks,England,Tottenham Hotspur F.C.,MF,0,0
+Ben Davies,Wales,Tottenham Hotspur F.C.,DF,0,0
+Kyle Walker-Peters,England,Tottenham Hotspur F.C.,DF,0,0
+Claudio Bravo,Chile,Manchester City F.C.,GK,0,0
+Kyle Walker,England,Manchester City F.C.,DF,5,0
+Danilo,Brazil,Manchester City F.C.,DF,0,0
+Vincent Kompany,Belgium,Manchester City F.C.,DF,0,0
+John Stones,England,Manchester City F.C.,DF,0,0
+Raheem Sterling,England,Manchester City F.C.,MF,6,7
+?lkay Gündo?an,Germany,Manchester City F.C.,MF,0,0
+Sergio Agüero,Argentina,Manchester City F.C.,FW,0,20
+Eliaquim Mangala,France,Manchester City F.C.,DF,0,0
+Kevin De Bruyne,Belgium,Manchester City F.C.,MF,18,0
+Fabian Delph,England,Manchester City F.C.,MF,0,0
+Leroy Sané,Germany,Manchester City F.C.,MF,0,0
+Bernardo Silva,Portugal,Manchester City F.C.,MF,9,8
+David Silva,Spain,Manchester City F.C.,MF,7,0
+Benjamin Mendy,France,Manchester City F.C.,DF,5,0
+Tosin Adarabioyo,England,Manchester City F.C.,DF,0,0
+Fernandinho,Brazil,Manchester City F.C.,MF,0,0
+Nicolás Otamendi,Argentina,Manchester City F.C.,DF,0,0
+Ederson,Brazil,Manchester City F.C.,GK,0,0
+Gabriel Jesus,Brazil,Manchester City F.C.,FW,0,7
+Oleksandr Zinchenko,Ukraine,Manchester City F.C.,MF,0,0
+Yaya Touré,Ivory Coast,Manchester City F.C.,MF,0,0
+Phil Foden,England,Manchester City F.C.,MF,0,0
+Brahim Díaz,Spain,Manchester City F.C.,MF,0,0
+Loris Karius,Germany,Liverpool F.C.,GK,0,0
+Nathaniel Clyne,England,Liverpool F.C.,DF,0,0
+Georginio Wijnaldum,Netherlands,Liverpool F.C.,MF,9,0
+Dejan Lovren,Croatia,Liverpool F.C.,DF,0,0
+James Milner,England,Liverpool F.C.,MF,0,7
+Roberto Firmino,Brazil,Liverpool F.C.,FW,7,11
+Philippe Coutinho,Brazil,Liverpool F.C.,MF,7,13
+Mohamed Salah,Egypt,Liverpool F.C.,FW,11,15
+Joe Gomez,England,Liverpool F.C.,DF,0,0
+Jordan Henderson,England,Liverpool F.C.,MF,0,0
+Daniel Sturridge,England,Liverpool F.C.,FW,0,0
+Marko Gruji?,Serbia,Liverpool F.C.,MF,0,0
+Ragnar Klavan,Estonia,Liverpool F.C.,DF,0,0
+Alberto Moreno,Spain,Liverpool F.C.,DF,0,0
+Sadio Mané,Senegal,Liverpool F.C.,FW,5,13
+Adam Lallana,England,Liverpool F.C.,MF,7,8
+Alex Oxlade-Chamberlain,England,Liverpool F.C.,MF,7,0
+Simon Mignolet,Belgium,Liverpool F.C.,GK,0,0
+Emre Can,Germany,Liverpool F.C.,MF,0,0
+Andrew Robertson,Scotland,Liverpool F.C.,DF,0,0
+Danny Ings,England,Liverpool F.C.,FW,0,0
+Dominic Solanke,England,Liverpool F.C.,FW,0,0
+Joël Matip,Cameroon,Liverpool F.C.,DF,0,0
+Ádám Bogdán,Hungary,Liverpool F.C.,GK,0,0
+Mathieu Debuchy,France,Arsenal F.C.,DF,0,0
+Per Mertesacker,Germany,Arsenal F.C.,DF,0,0
+Laurent Koscielny,France,Arsenal F.C.,DF,0,0
+Alexis Sánchez,Chile,Arsenal F.C.,FW,10,24
+Aaron Ramsey,Wales,Arsenal F.C.,MF,0,0
+Alexandre Lacazette,France,Arsenal F.C.,FW,0,28
+Jack Wilshere,England,Arsenal F.C.,MF,0,0
+Mesut Özil,Germany,Arsenal F.C.,MF,9,8
+Olivier Giroud,France,Arsenal F.C.,FW,0,12
+David Ospina,Colombia,Arsenal F.C.,GK,0,0
+Theo Walcott,England,Arsenal F.C.,FW,0,10
+Rob Holding,England,Arsenal F.C.,DF,0,0
+Alex Iwobi,Nigeria,Arsenal F.C.,FW,0,0
+Nacho Monreal,Spain,Arsenal F.C.,DF,0,0
+Santi Cazorla,Spain,Arsenal F.C.,MF,0,0
+Shkodran Mustafi,Germany,Arsenal F.C.,DF,0,0
+Calum Chambers,England,Arsenal F.C.,DF,0,0
+Jeff Reine-Adélaïde,France,Arsenal F.C.,MF,0,0
+Danny Welbeck,England,Arsenal F.C.,FW,0,0
+Héctor Bellerín,Spain,Arsenal F.C.,DF,4,0
+Granit Xhaka,Switzerland,Arsenal F.C.,MF,0,0
+Ainsley Maitland-Niles,England,Arsenal F.C.,MF,0,0
+Sead Kolašinac,Bosnia and Herzegovina,Arsenal F.C.,DF,0,0
+Chuba Akpom,England,Arsenal F.C.,FW,0,0
+David de Gea,Spain,Manchester United F.C.,GK,0,0
+Victor Lindelöf,Sweden,Manchester United F.C.,DF,0,0
+Eric Bailly,Ivory Coast,Manchester United F.C.,DF,0,0
+Phil Jones,England,Manchester United F.C.,DF,0,0
+Marcos Rojo,Argentina,Manchester United F.C.,DF,0,0
+Paul Pogba,France,Manchester United F.C.,MF,0,0
+Juan Mata,Spain,Manchester United F.C.,MF,0,6
+Romelu Lukaku,Belgium,Manchester United F.C.,FW,6,25
+Zlatan Ibrahimovi?,Sweden,Manchester United F.C.,FW,0,0
+Anthony Martial,France,Manchester United F.C.,FW,6,0
+Chris Smalling,England,Manchester United F.C.,DF,0,0
+Jesse Lingard,England,Manchester United F.C.,MF,0,0
+Michael Carrick,England,Manchester United F.C.,MF,0,0
+Daley Blind,Netherlands,Manchester United F.C.,DF,0,0
+Ashley Young,England,Manchester United F.C.,MF,0,0
+Marcus Rashford,England,Manchester United F.C.,FW,0,0
+Sergio Romero,Argentina,Manchester United F.C.,GK,0,0
+Ander Herrera,Spain,Manchester United F.C.,MF,6,0
+Henrikh Mkhitaryan,Armenia,Manchester United F.C.,MF,0,0
+Luke Shaw,England,Manchester United F.C.,DF,0,0
+Antonio Valencia,Ecuador,Manchester United F.C.,DF,0,0
+Marouane Fellaini,Belgium,Manchester United F.C.,MF,0,0
+Nemanja Mati?,Serbia,Manchester United F.C.,MF,0,0
+Matteo Darmian,Italy,Manchester United F.C.,DF,0,0
+Jordan Pickford,England,Everton F.C.,GK,0,0
+Morgan Schneiderlin,France,Everton F.C.,MF,0,0
+Leighton Baines,England,Everton F.C.,DF,0,0
+Michael Keane,England,Everton F.C.,DF,0,0
+Ashley Williams,Wales,Everton F.C.,DF,0,0
+Phil Jagielka,England,Everton F.C.,DF,0,0
+Yannick Bolasie,Democratic Republic of the Congo,Everton F.C.,FW,0,0
+Ross Barkley,England,Everton F.C.,MF,8,0
+Sandro Ramírez,Spain,Everton F.C.,FW,0,14
+Wayne Rooney,England,Everton F.C.,FW,5,0
+Kevin Mirallas,Belgium,Everton F.C.,FW,6,0
+Aaron Lennon,England,Everton F.C.,MF,0,0
+Cuco Martina,Curaçao,Everton F.C.,DF,0,0
+James McCarthy,Republic of Ireland,Everton F.C.,MF,0,0
+Idrissa Gueye,Senegal,Everton F.C.,MF,0,0
+Gylfi Sigurðsson,Iceland,Everton F.C.,MF,0,0
+Oumar Niasse,Senegal,Everton F.C.,FW,0,0
+Davy Klaassen,Netherlands,Everton F.C.,MF,0,0
+Muhamed Beši?,Bosnia and Herzegovina,Everton F.C.,MF,0,0
+Maarten Stekelenburg,Netherlands,Everton F.C.,GK,0,0
+Séamus Coleman,Republic of Ireland,Everton F.C.,DF,0,0
+Ramiro Funes Mori,Argentina,Everton F.C.,DF,0,0
+Tom Davies,England,Everton F.C.,MF,0,0
+Nikola Vlaši?,Croatia,Everton F.C.,FW,0,0
